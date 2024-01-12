@@ -1,0 +1,7 @@
+@inproceedings{REPO301,
+    author = "Xie, Liwenhan and Zhou, Zhaoyu and Yu, Kerun and Wang, Yun and Qu, Huamin and Chen, Siming",
+    booktitle = "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+    pages = "1--14",
+    title = "{Wakey-Wakey: Animate Text by Mimicking Characters in a GIF}",
+    year = "2023"
+}
